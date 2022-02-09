@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\PGLearning\ComputerVision\assimp-4.1.0\build\CMakeFiles\b76c0ed29293780115c5be592124d5fb\Experimental.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\PGLearning\ComputerVision\assimp-4.1.0\test\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\PGLearning\ComputerVision\assimp-4.1.0\build\test\CMakeFiles\Experimental" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{530F78A9-7456-3240-B4A4-AAF42B4BE54A}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

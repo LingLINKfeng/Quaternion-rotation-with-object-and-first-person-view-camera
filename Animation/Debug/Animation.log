@@ -1,0 +1,42 @@
+﻿  CubemapTexture.cpp
+  IndexBuffer.cpp
+  Mesh.cpp
+  Model.cpp
+  Plane.cpp
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(72): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(129): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(130): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(137): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(138): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(141): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(142): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(151): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(152): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(155): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(156): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(165): warning C4305: '=': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(359): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\plane.cpp(323): warning C4101: 'Ffront': unreferenced local variable
+  Renderer.cpp
+  Shader.cpp
+  glm.cpp
+  imgui.cpp
+  imgui_demo.cpp
+  imgui_draw.cpp
+  imgui_impl_glfw.cpp
+  imgui_impl_opengl2.cpp
+  imgui_impl_opengl3.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  stb_image.cpp
+  VertexArray.cpp
+d:\pglearning\semester2\real-timeanimation\animation\animation\src\vertexarray.cpp(27): warning C4018: '<': signed/unsigned mismatch
+  VertexBuffer.cpp
+  Generating Code...
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc100.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'D:\PGLearning\Semester2\Real-TimeAnimation\Animation\Debug\vc100.pdb'; linking object as if no debug info
+  Animation.vcxproj -> D:\PGLearning\Semester2\Real-TimeAnimation\Animation\Debug\Animation.exe

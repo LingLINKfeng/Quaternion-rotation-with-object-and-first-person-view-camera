@@ -1,0 +1,20 @@
+﻿  Building Custom Rule D:/PGLearning/ComputerVision/assimp-4.1.0/tools/assimp_view/CMakeLists.txt
+  CMake does not need to re-run because D:/PGLearning/ComputerVision/assimp-4.1.0/build/tools/assimp_view/CMakeFiles/generate.stamp is up-to-date.
+  AnimEvaluator.cpp
+  Background.cpp
+  Display.cpp
+  HelpDialog.cpp
+  Input.cpp
+  LogDisplay.cpp
+  LogWindow.cpp
+  Material.cpp
+  MeshRenderer.cpp
+  MessageProc.cpp
+  Normals.cpp
+  SceneAnimator.cpp
+  Shaders.cpp
+  assimp_view.cpp
+  stdafx.cpp
+D:\PGLearning\ComputerVision\assimp-4.1.0\tools\assimp_view\assimp_view.rc(192): warning RC4206: title string too long; truncated at 256
+  
+  assimp_viewer.vcxproj -> D:\PGLearning\ComputerVision\assimp-4.1.0\build\tools\assimp_view\Release\assimp_viewer.exe

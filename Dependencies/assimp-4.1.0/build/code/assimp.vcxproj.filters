@@ -1,0 +1,1695 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CInterfaceIOWrapper.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ScaleProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\scene.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Bitmap.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Version.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CreateAnimMesh.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StepExporter.cpp">
+      <Filter>Step</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AMFImporter.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AMFImporter_Geometry.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AMFImporter_Material.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AMFImporter_Postprocess.cpp">
+      <Filter>AMF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\3DSExporter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AssbinExporter.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AssbinLoader.cpp">
+      <Filter>ASSBIN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AssxmlExporter.cpp">
+      <Filter>ASSXML</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ColladaLoader.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ColladaParser.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ColladaExporter.cpp">
+      <Filter>COLLADA</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IRRMeshLoader.cpp">
+      <Filter>IRRMESH</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IRRShared.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IRRLoader.cpp">
+      <Filter>IRR</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OFFLoader.cpp">
+      <Filter>OFF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjFileImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjFileMtlImporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjFileParser.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjExporter.cpp">
+      <Filter>OBJ</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreImporter.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreStructs.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreBinarySerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreXmlSerializer.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreMaterial.cpp">
+      <Filter>OGRE</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OpenGEXExporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OpenGEXImporter.cpp">
+      <Filter>OPENGEX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PlyLoader.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PlyParser.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PlyExporter.cpp">
+      <Filter>PLY</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderLoader.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderDNA.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderScene.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderModifier.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderBMesh.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderTessellator.cpp">
+      <Filter>BLEND</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCReaderGen1.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCReaderGen2.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCBoolean.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCOpenings.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STEPFileReader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STEPFileEncoding.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXImporter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXParser.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXConverter.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXDocument.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXProperties.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXMeshGeometry.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXMaterial.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXModel.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXAnimation.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXNodeAttribute.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXDeformer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXBinaryTokenizer.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXDocumentUtil.cpp">
+      <Filter>FBX</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3BSPZipArchive.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\RawLoader.cpp">
+      <Filter>RAW</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SIBImporter.cpp">
+      <Filter>SIB</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STLExporter.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TerragenLoader.cpp">
+      <Filter>TERRAGEN</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\UnrealLoader.cpp">
+      <Filter>3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XFileImporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XFileParser.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XFileExporter.cpp">
+      <Filter>X</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DExporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Geometry2D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Geometry3D.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Group.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Light.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Metadata.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Networking.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Postprocess.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Rendering.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Shape.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Texturing.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FIReader.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DVocabulary.cpp">
+      <Filter>X3D</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTFImporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTFExporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTF2Importer.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTF2Exporter.cpp">
+      <Filter>GLTF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\D3MFImporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\D3MFExporter.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\D3MFOpcPackage.cpp">
+      <Filter>3MF</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MMDImporter.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MMDPmxParser.cpp">
+      <Filter>MMD</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\unzip\ioapi.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\unzip\unzip.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\clipper\clipper.cpp">
+      <Filter>Clipper</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\code\OpenDDLParser.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\code\DDLNode.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\code\OpenDDLCommon.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\code\OpenDDLExport.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\code\Value.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\code\OpenDDLStream.cpp">
+      <Filter>openddl_parser</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcArithmeticCodec.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcDynamicVectorDecoder.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcDynamicVectorEncoder.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcTools.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcTriangleFans.cpp">
+      <Filter>open3dgc</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\zip\src\zip.c">
+      <Filter>ziplib</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\fast_atof.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\qnan.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BaseImporter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ByteSwapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CInterfaceIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Hash.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MemoryIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ParsingUtils.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StreamReader.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StreamWriter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StringComparison.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StringUtils.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SGSpatialSort.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\GenericProperty.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SpatialSort.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SkeletonMeshBuilder.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ScaleProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SmoothingGroups.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StandardShapes.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\RemoveComments.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Subdivision.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Vertex.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LineSplitter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TinyFormatter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Profiler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LogAux.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Bitmap.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XMLTools.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IOStreamBuffer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CreateAnimMesh.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StdOStreamLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PolyTools.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\StepExporter.h">
+      <Filter>Step</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AMFImporter.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AMFImporter_Macro.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AMFImporter_Node.hpp">
+      <Filter>AMF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\3DSExporter.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AssbinExporter.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AssbinLoader.h">
+      <Filter>ASSBIN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\AssxmlExporter.h">
+      <Filter>ASSXML</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ColladaHelper.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ColladaLoader.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ColladaParser.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ColladaExporter.h">
+      <Filter>COLLADA</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IRRMeshLoader.h">
+      <Filter>IRRMESH</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IRRShared.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IRRLoader.h">
+      <Filter>IRR</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OFFLoader.h">
+      <Filter>OFF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjFileData.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjFileImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjFileMtlImporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjFileParser.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjTools.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\ObjExporter.h">
+      <Filter>OBJ</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreImporter.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreStructs.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreParsingUtils.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreBinarySerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OgreXmlSerializer.h">
+      <Filter>OGRE</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OpenGEXExporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OpenGEXImporter.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\OpenGEXStructs.h">
+      <Filter>OPENGEX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PlyLoader.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PlyParser.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\PlyExporter.h">
+      <Filter>PLY</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderLoader.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderDNA.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderDNA.inl">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderScene.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderSceneGen.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderIntermediate.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderModifier.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderBMesh.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\BlenderTessellator.h">
+      <Filter>BLEND</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCReaderGen.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STEPFile.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STEPFileReader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STEPFileEncoding.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXCompileConfig.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXImporter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXParser.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXTokenizer.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXImportSettings.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXConverter.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXUtil.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXDocument.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXProperties.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FBXMeshGeometry.h">
+      <Filter>FBX</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\Q3BSPZipArchive.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\RawLoader.h">
+      <Filter>RAW</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SIBImporter.h">
+      <Filter>SIB</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\STLExporter.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\TerragenLoader.h">
+      <Filter>TERRAGEN</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\UnrealLoader.h">
+      <Filter>3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XFileHelper.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XFileImporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XFileParser.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\XFileExporter.h">
+      <Filter>X</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DExporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Macro.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\X3DImporter_Node.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\FIReader.hpp">
+      <Filter>X3D</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTFAsset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTFAsset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTFAssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTFAssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTFImporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTFExporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTF2Asset.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTF2Asset.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTF2AssetWriter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTF2AssetWriter.inl">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTF2Importer.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\glTF2Exporter.h">
+      <Filter>GLTF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\D3MFImporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\D3MFExporter.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\D3MFOpcPackage.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\3MFXmlTags.h">
+      <Filter>3MF</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MMDCpp14.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MMDImporter.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MMDPmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MMDPmxParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\MMDVmdParser.h">
+      <Filter>MMD</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\unzip\crypt.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\unzip\ioapi.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\unzip\unzip.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\clipper\clipper.hpp">
+      <Filter>Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\include\openddlparser\OpenDDLParser.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\include\openddlparser\OpenDDLParserUtils.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\include\openddlparser\OpenDDLCommon.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\include\openddlparser\OpenDDLExport.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\include\openddlparser\OpenDDLStream.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\include\openddlparser\DDLNode.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\openddlparser\include\openddlparser\Value.h">
+      <Filter>openddl_parser</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcAdjacencyInfo.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcArithmeticCodec.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcBinaryStream.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcCommon.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcDVEncodeParams.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcDynamicVectorDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcDynamicVectorEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcDynamicVector.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcFIFO.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcIndexedFaceSet.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcIndexedFaceSet.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcSC3DMCDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcSC3DMCDecoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcSC3DMCEncodeParams.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcSC3DMCEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcSC3DMCEncoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcTimer.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcTriangleFans.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcTriangleListDecoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcTriangleListDecoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcTriangleListEncoder.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcTriangleListEncoder.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcVector.h">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\Open3DGC\o3dgcVector.inl">
+      <Filter>open3dgc</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\zip\src\miniz.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\contrib\zip\src\zip.h">
+      <Filter>ziplib</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\build\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\Defines.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\metadata.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\IOStream.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\DefaultIOStream.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\DefaultIOSystem.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\SceneCombiner.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\PGLearning\ComputerVision\assimp-4.1.0\include\assimp\Compiler\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\PGLearning\ComputerVision\assimp-4.1.0\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3D">
+      <UniqueIdentifier>{01CCCE89-ECE1-322E-BE38-1F8DE4E73F59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{C37783A5-094F-3C53-A0B4-ECD94B3222E8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="3MF">
+      <UniqueIdentifier>{E6EE431B-62AC-391D-BE89-8F2D60F5133E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{CE3329E4-3073-3AB9-940B-6A963D7C9EB9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AMF">
+      <UniqueIdentifier>{E3A6C3C4-85BD-3648-91E7-931EE4355667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{707DCDAC-6F35-3474-8606-DECD7F9EB47B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSBIN">
+      <UniqueIdentifier>{63AE3262-3C2C-3B2B-806F-173639B7F933}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASSXML">
+      <UniqueIdentifier>{18727032-5288-3FC2-8FD0-FEB0EF4F6879}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{35A85572-3CF2-3379-A166-95939FFCD875}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLEND">
+      <UniqueIdentifier>{118E9839-BD45-3743-9F3C-4F016AFC392C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{8FA5837C-9696-3646-881E-8E92AFE1B961}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{BD370284-525B-32EF-9DE3-75ED4DF93CE8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COLLADA">
+      <UniqueIdentifier>{BAAAF9DF-226E-3F1F-AB4C-74511B33C2CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{BF01A4A6-BBC4-3EBA-AD6B-36114B840FE7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipper">
+      <UniqueIdentifier>{6E29C470-6BAC-386F-B0B5-F49D57ACC473}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{EFEF0FE8-FF6E-31E0-A972-FA89C4348E5B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{851D26EB-E955-3C41-AFAF-881B6A7BDC42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{E79801D8-E591-3D90-9476-F5CED1A31AA2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{135EBFE8-8A41-3D9B-9B76-6C70937AA85F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="FBX">
+      <UniqueIdentifier>{B6FCF40A-7E25-36E4-9B4F-915F70D0D9DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GLTF">
+      <UniqueIdentifier>{70FBDC39-20A3-3A01-91F0-1FB995066786}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{5990E9E9-D1B7-3FE7-9643-7B527237DDC5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{76FC844A-2644-3E84-9870-EB9AE841F1CA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{A9AE29E2-F6FF-3E39-80FA-9E7C0905B3E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRR">
+      <UniqueIdentifier>{95434A20-C8DD-3AE7-8C8F-3909653C6BCE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IRRMESH">
+      <UniqueIdentifier>{4212C953-DAC7-3CF4-A449-3281052F0C51}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{CEE96766-CCFF-31E5-BFC4-46DBE07A81C6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{7BEDCCD1-AC5A-3318-A604-8EE2EFA280B1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{514F5141-99AF-304C-97F4-965761EFCC36}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{75F91FFA-AA88-34EC-BC09-852E63F39D37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{53C778D6-FB55-3CB8-894B-F31DF4DE57A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{1DE81BA5-BCEE-317D-9957-899C4AF15F52}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{5DB0BD01-AF61-384A-BA76-D2DA6C8F22CF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{1B05FB6E-FF7A-36BD-A7CB-B9896A40669C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{AAD2E0AC-01CB-363B-9700-C0E3CC345CD5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MMD">
+      <UniqueIdentifier>{78C0C273-B53F-3859-858E-7D8E1550295C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{22D33349-9574-3B65-8182-1E48B7000290}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{1B569E2A-C749-3179-8F06-CABDB3EE723B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{12B66819-4DA0-3AE6-B25C-4E17A108112B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{963C7970-48AF-3F48-B57A-EC4862742201}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OBJ">
+      <UniqueIdentifier>{FC984152-A9A7-3E09-B68A-D435358137BF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFF">
+      <UniqueIdentifier>{C22E8D4C-78F6-3DDE-9568-201F9267A118}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OGRE">
+      <UniqueIdentifier>{8F6EDD0C-1A4B-38D9-A75B-C64D58212EF9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OPENGEX">
+      <UniqueIdentifier>{C2D718D9-48D2-335F-AEC0-CEFB9CAD5E11}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PLY">
+      <UniqueIdentifier>{2BF428E3-F550-365F-A6D7-9604AB64251F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Poly2Tri">
+      <UniqueIdentifier>{6950EB71-806E-3EF9-8011-8B9CA10B8DBD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{C4D75C79-BCD1-3F72-8BD6-D82D9E8A0F46}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{90B64571-19AF-3733-97C8-280AD8AE7AA9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{030321C7-D811-319E-8749-9955605144E1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="RAW">
+      <UniqueIdentifier>{4B67526C-6749-3EC1-A5FD-E8F919A6C96C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SIB">
+      <UniqueIdentifier>{70FAD3B2-5807-3818-B18C-188E45DB093E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{F420EFF4-4B74-3777-AF9D-A8C64A33C112}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{DA48782F-4D7B-38A2-8D9A-F34268EB2F71}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{BF4CA491-07D9-3FB6-BEDA-DA21826881DC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Step">
+      <UniqueIdentifier>{872D033F-3FA8-3E9B-A35F-DFEF2DA8C78F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="TERRAGEN">
+      <UniqueIdentifier>{7E315FF0-5F94-3951-A534-48905BD7AC8E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X">
+      <UniqueIdentifier>{7FEAEDE1-50E4-343B-9D61-B3025FC694DA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X3D">
+      <UniqueIdentifier>{437A860C-B79C-3191-A62D-3B572523DC84}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{A7EFE7DD-051D-3D33-95A5-D066451ED039}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="open3dgc">
+      <UniqueIdentifier>{78D4D324-3432-35DA-AD1A-6E6EE7C20815}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="openddl_parser">
+      <UniqueIdentifier>{592CC7B3-3FF5-36EA-A1CB-38E66A227FD3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="unzip">
+      <UniqueIdentifier>{396F4AB1-04FF-3F8F-BC83-6CF1A9273AA4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ziplib">
+      <UniqueIdentifier>{59B0B013-6232-31B3-8E8B-EC5D155069CD}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
