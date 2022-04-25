@@ -3,3 +3,4 @@ This is TCD 2022 realtimeAnimation assignment1.Using quaternion to rotate object
 External Library:Using [Assimp] to load 3D model, Using [glm] to do rotation and translation,using [std_img] to load texture.
 You can find plane.cpp in Animation/src/
 Any question you can email: lingfengzhang099@gmail.com
+youtube:https://www.youtube.com/watch?v=nW0J3eGgmxE&ab_channel=LingfengZhang
